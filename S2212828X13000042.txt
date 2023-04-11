@@ -1,0 +1,11 @@
+James P. Smith, Meng Tian, Yaohui Zhao,
+Community effects on elderly health: Evidence from CHARLS national baseline,
+The Journal of the Economics of Ageing,
+Volumes 1–2,
+2013,
+Pages 50-59,
+ISSN 2212-828X,
+https://doi.org/10.1016/j.jeoa.2013.07.001.
+(https://www.sciencedirect.com/science/article/pii/S2212828X13000042)
+Abstract: There is increasing interest in neighborhood or area effects on health and individual development. China, due to its vast regional variations in health infrastructure and geography and relative immobility of older residents, provides a rare opportunity to study such effects. Utilizing China Health and Retirement Longitudinal Study (CHARLS) baseline survey 2011–2012 which covered over 17,000 individuals in 450 randomly selected communities/villages, this paper addresses two questions: whether community/village characteristics matter for individual health and SES (Socio-Economic Status), and why they matter. Our statistical results indicate that community/village characteristics have strong associations with individual health and SES. We find that health infrastructure is important even after controlling for community income level. Using surface water increases the likelihood of worse health compared to tap water and even underground water. Compared to moving away by trucks, non-management of waste, and other management such as dump in local site or nearby water body are associated with worse health and SES outcomes. Toileting system without water has the worst influence on individual health and education achievements. Using hay or coal as cooking fuel has the largest negative effect on health and SES outcomes. Geography also plays a role. Extreme weather conditions cause people to be more depressed, and face severe difficulties in ADL (Activities of Daily Living) or IADL (Instrumental Activities of Daily Living) and other negative health conditions. Local landscapes also affect individual health and SES outcomes as mountainous and hilly areas exacerbate individual health status and SES outcomes.
+Keywords: Community effects; Elderly health; SES; CHARLS
